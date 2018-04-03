@@ -9,7 +9,7 @@
     <template v-if="menu==2">
         <h1>Componenete del Menu 2</h1>
     </template>
-    <template v-if="menu==3">
+    <template v-if="menñu==3">
         <h1>Componenete del Menu 3</h1>
     </template>
     <template v-if="menu==4">
